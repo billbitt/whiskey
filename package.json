@@ -1,0 +1,31 @@
+{
+  "name": "whiskey",
+  "version": "0.0.1",
+  "description": "distilled wet code for smart contracts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billbitt/whiskey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billbitt/whiskey/issues"
+  },
+  "homepage": "https://github.com/billbitt/whiskey#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "elliptic": "^6.4.0",
+    "express": "^4.16.2",
+    "fetch": "^1.1.0"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}

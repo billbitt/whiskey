@@ -1,0 +1,14 @@
+{
+	"7e4d16e1b852733529fdf92a40103dc99c0fba639875002125eefd27047a5ce9": {
+		"title": "Jurisdictions",
+		"content": "These days, cross-bosrder transactions are fairly routine, both in the domestic and international sense. When the parties to a contract are located in more than one state, or perhaps more than one country, it may not be clear which state’s laws govern the arrangement. Therefore, commercial contracts should always specify the state that will have jurisdiction over the agreement, so that it is perfectly clear which laws are applicable."
+	},
+	"28bc6ab27e52f43619a4d61fc741ab559520fa51b83b1cbd15a3c386c1701e0f": {
+		"title": "Dispute Resolution",
+		"content": "Even the most well-drafted contracts are susceptible to conflict. As a result, it is of the utmost importance to clarify the parties’ plans for dispute resolution in the event that an issue arises. In many contracts, it is now common practice for firms to include an arbitration clause, requiring the parties to submit to arbitration prior to or in lieu of seeking a remedy via litigation. This is generally a faster, cheaper way to solve contract-related problems, although some contracts still allow for traditional legal recourse."
+	},
+	"d52db5d64e6030184dc238836abc1d3cae55887267dc1ba9f3d9d644e1aef31a": {
+		"title": "Damages",
+		"content": "In light of the frequency of contract breaches and in an effort to deter them, it is also standard practice for commercial contracts to contain clauses related to damages. In general, liquidated damages will be included, which is usually a predetermined amount that will be owed if one side fails to perform. Of course, a court may award other types of damages beyond that amount depending on the nature and impact of the breach."
+	}
+}
